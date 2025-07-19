@@ -13648,7 +13648,7 @@ NSLOCTEXT(Namespace, Key, DefaultText);INVTEXT*/
       }
     }
   ],
-  "MarniiMods Hairstyles": [ //12-Marnii发型模组7.18√
+  "MarniiMods Hairstyles": [ //12-Marnii发型模组
     {
       "Content::830224812": {
         "Source": "Stylist table",
